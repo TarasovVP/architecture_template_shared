@@ -2,8 +2,6 @@ package com.vnteam.architecturetemplates.data.mapperimpls
 
 import com.vnteam.architecturetemplates.DemoObjectWithOwner
 import com.vnteam.architecturetemplates.domain.mappers.DemoObjectDBMapper
-import com.vnteam.architecturetemplates.domain.models.DemoObject
-import com.vnteam.architecturetemplates.domain.models.Owner
 
 class DemoObjectDBMapperImpl : DemoObjectDBMapper {
 
