@@ -29,7 +29,6 @@ kotlin {
     jvm()
     sourceSets {
         commonMain.dependencies {
-            implementation(projects.core)
             implementation(compose.runtime)
             implementation(compose.ui)
             implementation(compose.foundation)
